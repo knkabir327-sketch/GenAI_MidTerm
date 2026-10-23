@@ -97,6 +97,24 @@ The automated pipeline test suite passed **5 out of 5 tests** during local testi
 
 Answers depend on the content retrieved from the supplied manual. Verify important legal information against official sources.
 
+## Application Screenshots
+
+### 1. Design Classification System
+![Design Classification System](screenshots/classification_system.png)
+
+### 2. Controller General
+![Controller General](screenshots/controller_general.png)
+
+### 3. President
+![President](screenshots/president.png)
+
+### 4. Trademark Fee
+![Trademark Fee](screenshots/trademark_fee.png)
+
+### 5. Design Registration Fee
+![Design Registration Fee](screenshots/registration_fee.png)
+
+
 ## Author
 
 Abdul Kabir Khan
